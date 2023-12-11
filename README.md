@@ -1,4 +1,4 @@
-# Atividade-Spring-Web-Data-JPA-com-testes-no-JUnitAtividade Spring Web + Data (JPA) com testes no JMeter
+# Atividade Spring Web + Data (JPA) com testes no JUnit
 
 Atividade desenvolvida por: Marcelo Faro e Savio Franca
 
