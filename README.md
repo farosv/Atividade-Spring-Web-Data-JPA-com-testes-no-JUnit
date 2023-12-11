@@ -10,7 +10,7 @@ com.example.controller que contém o arquivo: ContaBancariaController.java;
 
 A classe seguinte é a executável: ContaBancariaApplication.java;
 
-Você pode encontrar o caso teste no seguinte caminho: /src/main/java/casodeteste/CasoDeTeste.jmx
+Você pode encontrar o caso teste no seguinte caminho: /src/main/java/CasoDeteste/Teste_ContaBancaria.jmx
 
 Comando SQL para criar uma tabela popular:
 
