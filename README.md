@@ -1,24 +1,20 @@
 # Atividade-Spring-Web-Data-JPA-com-testes-no-JUnitAtividade Spring Web + Data (JPA) com testes no JMeter
 
-Desenvolvido por: Eduarda Reis e Eduardo Cordovil
+Atividade desenvolvida por: Marcelo Faro e Savio Franca.
 
-O projeto é composto pelas massas:
+O projeto é composto pelas seguintes pastas:
 
-ifpa.appjpa.domain que contém os arquivos: Conta.java e ContaRepo.java;
+com.example.domain que contém os arquivos: ContaBancaria.java, ContaBancariaRepository.java e ContaBancariaVersionada.java;
 
-ifpa.apppjpa.controller que contém o arquivo: ContaController.java;
+com.example.controller que contém o arquivo: ContaBancariaController.java;
 
-A classe seguinte é: AppJpaApplication.java
+A classe seguinte é a executável: ContaBancariaApplication.java;
+
+Você pode encontrar o caso teste no seguinte caminho: /src/main/java/casodeteste/CasoDeTeste.jmx
 
 Você encontra o caso de teste na pasta: /src/main/java/casodeteste/ casodeteste.jmx
 
 Comando SQL para criar uma tabela popular:
-
-CREATE TABLE CONTA (
-   ID INT AUTO_INCREMENT PRIMARY KEY, 
-   NOME_CLIENTE VARCHAR, 
-   SALDO FLOAT
-);
 
 ```sql
 CREATE TABLE CONTA (
